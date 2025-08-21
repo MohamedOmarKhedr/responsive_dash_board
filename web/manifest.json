@@ -1,6 +1,6 @@
 {
-    "name": "responsive_dash_board",
-    "short_name": "responsive_dash_board",
+    "name": "responsive_dashboard",
+    "short_name": "responsive_dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
